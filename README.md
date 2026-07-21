@@ -1,1 +1,1 @@
-# Skin-conductivity  -monitoring-using-GSR-
+# Skin-conductivity-monitoring-using-GSR-
